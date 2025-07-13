@@ -1,6 +1,4 @@
-Absolutely! Here's your **customized 1-line-copyable README-style summary** for **Linkzy**, in the exact format you asked:
 
----
 
 ✨ Fullstack Language Learning & Video Chat App — Linkzy ✨
 Demo App
@@ -50,6 +48,3 @@ npm install
 npm run dev
 ```
 
----
-
-Let me know if you want this in markdown format too (`README.md`).
