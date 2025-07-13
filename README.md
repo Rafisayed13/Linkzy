@@ -5,7 +5,8 @@ Demo App
 
 **Highlights:**
 
-🌍 Connect with language partners via real-time video chat & messaging
+🌍 Connect with language partners via r<img width="1229" height="593" alt="Screenshot 2025-07-14 034556" src="https://github.com/user-attachments/assets/056d5c02-2311-4ea5-81e2-74bb5281c140" />
+eal-time video chat & messaging
 📹 1-on-1 Video Calls powered by WebRTC & Socket.IO
 🔐 Secure JWT Authentication with Protected Routes
 🎨 Modern UI with TailwindCSS & Dark/Light Themes
